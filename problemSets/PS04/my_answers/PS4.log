@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  3 DEC 2023 21:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.12)  3 DEC 2023 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**PS3.tex
-(./PS3.tex
+**PS4.tex
+(./PS4.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -825,27 +825,27 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count336
 \l__pdf_internal_box=\box76
 )
-(./PS3.aux)
-\openout1 = `PS3.aux'.
+(./PS4.aux)
+\openout1 = `PS4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -869,151 +869,279 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.47998pt on input line 68.
-Package hyperref Info: Link coloring OFF on input line 68.
- (./PS3.out)
-(./PS3.out)
+Package xypdf Info: Line width: 0.47998pt on input line 69.
+Package hyperref Info: Link coloring OFF on input line 69.
+ (./PS4.out)
+(./PS4.out)
 \@outlinefile=\write7
-\openout7 = `PS3.out'.
+\openout7 = `PS4.out'.
 
 \c@lstlisting=\count343
- (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+ [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (/usr/lo
+cal/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang2.sty
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2023/02/27 1.9 listings language file
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2023/02/27 1.9 listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 91.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
+05.
 
-(/Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/PS3.
-R
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 9
-3.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 93.
-) [1
-
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-</Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/Rplo
-t 1.png, id=29, 806.01125pt x 452.69125pt>
-File: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers
-/Rplot 1.png Graphic file (type png)
-<use /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 1.png>
-Package pdftex.def Info: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemS
-ets/PS03/my_answers/Rplot 1.png  used on input line 127.
-(pdftex.def)             Requested size: 375.80544pt x 211.06566pt.
- [2 </Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 1.png>]
-[3]
-</Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/Rplo
-t 2.png, id=53, 806.01125pt x 452.69125pt>
-File: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers
-/Rplot 2.png Graphic file (type png)
-<use /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 2.png>
-Package pdftex.def Info: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemS
-ets/PS03/my_answers/Rplot 2.png  used on input line 198.
-(pdftex.def)             Requested size: 375.80544pt x 211.06566pt.
- [4 </Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 2.png>]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-65.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
-</Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/Rplo
-t 3.png, id=70, 806.01125pt x 452.69125pt>
-File: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers
-/Rplot 3.png Graphic file (type png)
-<use /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 3.png>
-Package pdftex.def Info: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemS
-ets/PS03/my_answers/Rplot 3.png  used on input line 270.
-(pdftex.def)             Requested size: 375.80544pt x 211.06566pt.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 105.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: The counter will not be printed.
+             The label is: (c) on input line 129.
 
-[5] [6 </Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answe
-rs/Rplot 3.png>]
-</Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/Rplo
-t 4.png, id=95, 806.01125pt x 452.69125pt>
-File: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers
-/Rplot 4.png Graphic file (type png)
-<use /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 4.png>
-Package pdftex.def Info: /Users/iseli/Documents/GitHub/StatsI_Fall2023/problemS
-ets/PS03/my_answers/Rplot 4.png  used on input line 327.
-(pdftex.def)             Requested size: 375.80544pt x 211.06566pt.
- [7 </Users/iseli/Documents/GitHub/StatsI_Fall2023/problemSets/PS03/my_answers/
-Rplot 4.png>] [8] [9]
 
-! LaTeX Error: \begin{enumerate} on input line 235 ended by \end{document}.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.138 		\begin{verbatim}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-(./PS3.aux)
-Package rerunfilecheck Info: File `PS3.out' has not changed.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 		\begin{verbatim}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 		\begin{verbatim}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 		\begin{verbatim}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 		\begin{verbatim}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[2]
+Overfull \hbox (35.09491pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 gov.administrators          general.managers        
+       accountants[] 
+ []
+
+
+Overfull \hbox (41.26991pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 purchasing.officers                  chemists       
+         physicists[] 
+ []
+
+
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 mining.engineers                 surveyors          
+     draughtsmen[] 
+ []
+
+
+Overfull \hbox (522.92015pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 computer.programers                economists       
+      psychologists                -21.113539                -20.044355        
+        -18.213094[] 
+ []
+
+
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 social.workers                   lawyers            
+    librarians[] 
+ []
+
+
+Overfull \hbox (541.44516pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 vocational.counsellors                 ministers    
+   university.teachers                -24.434834                -10.481415     
+           -32.644233[] 
+ []
+
+
+Overfull \hbox (547.62016pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 primary.school.teachers secondary.school.teachers   
+             physicians                -13.216933                -20.001702    
+            -69.121605[] 
+ []
+
+
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 veterinarians  osteopaths.chiropractors             
+       nurses[] 
+ []
+
+
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 nursing.aides          physio.therapsts             
+  pharmacists[] 
+ []
+
+
+Overfull \hbox (522.92015pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 medical.technicians        commercial.artists       
+radio.tv.announcers                -11.886141                -14.778056        
+        -18.659535[] 
+ []
+
+
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 tellers.cashiers        computer.operators          
+ shipping.clerks[] 
+ []
+
+[3]
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 postal.clerks       telephone.operators             
+   collectors[] 
+ []
+
+
+Overfull \hbox (16.5699pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 claim.adjustors             travel.clerks           
+  office.clerks[] 
+ []
+
+
+Overfull \hbox (28.9199pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 sales.supervisors     commercial.travellers         
+     sales.clerks[] 
+ []
+
+
+Overfull \hbox (559.97017pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 service.station.attendant          insurance.agents 
+     real.estate.salesmen                 -3.895697                -20.277529  
+              -17.038697[] 
+ []
+
+
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 slaughterers.1            slaughterers.2            
+       canners[] 
+ []
+
+
+Overfull \hbox (16.5699pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 textile.weavers         textile.labourers           
+tool.die.makers[] 
+ []
+
+
+Overfull \hbox (516.74515pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 radio.tv.repairmen     sewing.mach.operators        
+    auto.repairmen                -12.651062                 -5.252082         
+       -13.634939[] 
+ []
+
+
+Overfull \hbox (516.74515pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 aircraft.repairmen        railway.sectionmen        
+electrical.linemen                -19.097445                -10.509851         
+       -20.803590[] 
+ []
+
+
+Overfull \hbox (59.79492pt too wide) in paragraph at lines 250--250
+ []       \OT1/cmtt/m/n/12 construction.labourers                    pilots    
+       train.engineers[] 
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
+
+ []
+
+[5] [6] [7] (./PS4.aux)
+Package rerunfilecheck Info: File `PS4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 235 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 27120 strings out of 476025
- 479321 string characters out of 5790017
- 1930388 words of memory out of 5000000
- 47010 multiletter control sequences out of 15000+600000
- 522894 words of font info for 77 fonts, out of 8000000 for 9000
+ 27070 strings out of 476025
+ 476376 string characters out of 5790017
+ 2004388 words of memory out of 5000000
+ 46973 multiletter control sequences out of 15000+600000
+ 524024 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,3235b,2219s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
-pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on PS3.pdf (9 pages, 499001 bytes).
+ 84i,8n,89p,3235b,2142s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
+e/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2
+023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on PS4.pdf (7 pages, 175441 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 185 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
